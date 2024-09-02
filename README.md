@@ -1,4 +1,4 @@
-# Target_SQL_business_case
+# **Target**
 **Introduction**:
 
 Target, a leading retail company, has expanded its e-commerce operations in Brazil to tap into the growing online shopping trend. To thrive in this competitive market, Target needs to grasp the intricacies of Brazilian e-commerce and harness data-driven insights to optimize its operations. This article delves into analyzing Target’s e-commerce dataset using structured query language (SQL) power queries, aiming to provide actionable recommendations for enhancing operations in Brazil.
